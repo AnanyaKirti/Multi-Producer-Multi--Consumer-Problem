@@ -6,7 +6,7 @@
 
 	I have searched the Internet for a solution which offers multiple producers and multiple consumers, and I was unable to find it, this is my implementation.
 
-	[Wiki Page](https://en.wikipedia.org/wiki/Producer–consumer_problem)
+[Wiki](https://en.wikipedia.org/wiki/Producer–consumer_problem)
 
 ## How to run.
 
